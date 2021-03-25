@@ -6,7 +6,6 @@ public class factorial {
    public static void main(String[] args) {
        factorial f = new factorial();
        long val;
-
        for(int i=5; i<30; i++) {
            val = f.fact_for(i);
            System.out.print("n= "+i+",value= "+ val + " count : (iteration)" + count_f);

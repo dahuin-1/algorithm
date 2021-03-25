@@ -1,10 +1,19 @@
 arraylist/ArrayList.java
  arraylist.ArrayList
-factorial.java
- factorial
-permutaion.java
- permutaion
-arraylist/main.java
- arraylist.main
 sorting.java
  sorting
+arraylist/main.java
+ arraylist.main
+arraylist/LinkedList.java
+ arraylist.LinkedList
+ arraylist.LinkedList$Node
+factorial.java
+ factorial
+permutation.java
+ permutation
+Main.java
+ Main
+recursionClone.java
+ recursionClone
+permutationClone.java
+ permutationClone
