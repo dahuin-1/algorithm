@@ -11,9 +11,15 @@ factorial.java
  factorial
 permutation.java
  permutation
-Main.java
- Main
-recursionClone.java
- recursionClone
 permutationClone.java
  permutationClone
+recursionClone.java
+ recursionClone
+Main.java
+ Main
+fibo.java
+ fibo
+hanoiTower.java
+ hanoiTower
+quickSort.java
+ quickSort
