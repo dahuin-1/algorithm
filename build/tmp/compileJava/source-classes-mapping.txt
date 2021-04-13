@@ -11,15 +11,24 @@ factorial.java
  factorial
 permutation.java
  permutation
-permutationClone.java
- permutationClone
-recursionClone.java
- recursionClone
-Main.java
- Main
-fibo.java
- fibo
 hanoiTower.java
  hanoiTower
 quickSort.java
  quickSort
+Main.java
+ Main
+week5/hanoi1.java
+ week5.hanoi1
+week4/permutationClone.java
+ week4.permutationClone
+week4/recursionClone.java
+ week4.recursionClone
+week4/fibo.java
+ week4.fibo
+week5/hanoi2.java
+ week5.hanoi2
+week5/hanoi3.java
+ week5.hanoi3
+ week5.hanoi3$MyStack
+week5/MyArrayList1.java
+ week5.MyArrayList1
