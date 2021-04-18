@@ -30,5 +30,19 @@ week5/hanoi2.java
 week5/hanoi3.java
  week5.hanoi3
  week5.hanoi3$MyStack
-week5/MyArrayList1.java
- week5.MyArrayList1
+week6/MyClass.java
+ week6.MyClass
+week6/MyArrayList2.java
+ week6.MyArrayList2
+week6/MyQueue1.java
+ week6.MyQueue1
+week6/MyStack.java
+ week6.MyStack
+week6/MyArrayList1.java
+ week6.MyArrayList1
+week6/MyArrayList3.java
+ week6.MyArrayList3
+week6/MyQueue2.java
+ week6.MyQueue2
+week6/MyQueue3.java
+ week6.MyQueue3
