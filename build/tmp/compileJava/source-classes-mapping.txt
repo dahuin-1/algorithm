@@ -1,48 +1,17 @@
-arraylist/ArrayList.java
- arraylist.ArrayList
-sorting.java
- sorting
-arraylist/main.java
- arraylist.main
-arraylist/LinkedList.java
- arraylist.LinkedList
- arraylist.LinkedList$Node
-factorial.java
- factorial
-permutation.java
- permutation
-hanoiTower.java
- hanoiTower
-quickSort.java
- quickSort
-Main.java
- Main
-week5/hanoi1.java
- week5.hanoi1
-week4/permutationClone.java
- week4.permutationClone
-week4/recursionClone.java
- week4.recursionClone
-week4/fibo.java
- week4.fibo
-week5/hanoi2.java
- week5.hanoi2
-week5/hanoi3.java
- week5.hanoi3
- week5.hanoi3$MyStack
-week6/MyClass.java
- week6.MyClass
-week6/MyArrayList2.java
- week6.MyArrayList2
-week6/MyQueue1.java
- week6.MyQueue1
-week6/MyStack.java
- week6.MyStack
-week6/MyArrayList1.java
- week6.MyArrayList1
 week6/MyArrayList3.java
  week6.MyArrayList3
-week6/MyQueue2.java
- week6.MyQueue2
-week6/MyQueue3.java
- week6.MyQueue3
+week6/MyClass.java
+ week6.MyClass
+week9/MyDoubleLinkedList.java
+ week9.MyDoubleLinkedList
+ week9.MyDoubleLinkedList$Node
+week9/PathTriangle.java
+ week9.PathTriangle
+week9/MyLinkedList.java
+ week9.MyLinkedList
+ week9.MyLinkedList$Node
+week11/MySortLinkedList.java
+ week11.MySortLinkedList
+ week11.MySortLinkedList$Node
+week11/MySort.java
+ week11.MySort

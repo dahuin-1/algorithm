@@ -75,11 +75,16 @@ public class MyArrayList3<T> {
     public void sort() { //오름차순
         for(int i = numOfData-1; i > 0; i--) {
             for (int j=0; j<i; j++){
-               // if(array[j].compareTo(array[j+1])>0){
-                if(compare(array[j],array[j+1])>0){
+               // if(array[j].  compareTo  (array[j+1])>0  ){
+               // if(temp.data.  compareTo  (min.data)>0  )
+                if(compare(array[j],  array[j+1])>0  )  {
+                    //if(compare(temp.data,min.data)>0){
                     T temp = array[j];
+                    //T temp = temp.data;
                     array[j] = array[j+1];
+                    //temp.data = min.data;
                     array[j+1] = temp;
+                    //min.data = temp;
                 }
             }
         }

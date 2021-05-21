@@ -1,6 +1,8 @@
 package week6;
 
 public class MyClass implements Comparable<MyClass>{
+
+
     int idNumber;
     String name;
     public MyClass(int i, String s) {
