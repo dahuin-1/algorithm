@@ -1,5 +1,5 @@
 package week12;
-//https://kim6394.tistory.com/223
+
 public class BinaryTree {
 
     public class Node {
@@ -39,7 +39,6 @@ public class BinaryTree {
     }
 
     private Node root;
-
     public Node getRoot() {
         return this.root;
     }
