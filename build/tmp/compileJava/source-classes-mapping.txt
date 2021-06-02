@@ -15,3 +15,9 @@ week11/MySortLinkedList.java
  week11.MySortLinkedList$Node
 week11/MySort.java
  week11.MySort
+week12/BST.java
+ week12.BST
+ week12.BST$Node
+week12/BinaryTree.java
+ week12.BinaryTree
+ week12.BinaryTree$Node
