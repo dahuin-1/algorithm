@@ -17,8 +17,9 @@ Main.java
  Main
 week13/HeapInArrayList.java
  week13.HeapInArrayList
-sorting.java
- sorting
+week12/BinaryTree.java
+ week12.BinaryTree
+ week12.BinaryTree$Node
 week6/MyQueue3.java
  week6.MyQueue3
 hanoiTower.java
@@ -39,6 +40,8 @@ week9/PathTriangle.java
  week9.PathTriangle
 arraylist/main.java
  arraylist.main
+sorting.java
+ sorting
 week5/hanoi1.java
  week5.hanoi1
 week6/MyClass.java
@@ -67,6 +70,5 @@ week6/MyArrayList3.java
  week6.MyArrayList3
 permutation.java
  permutation
-week12/BinaryTree.java
- week12.BinaryTree
- week12.BinaryTree$Node
+week13/MaxHeap.java
+ week13.MaxHeap

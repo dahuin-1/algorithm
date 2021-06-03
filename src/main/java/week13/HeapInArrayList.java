@@ -64,7 +64,6 @@ public class HeapInArrayList {
         int parentIndex = k / 2;
         heapifyUpward(parentIndex);
         System.out.println(heap.toString());
-
     }
 
     private void heapifyUpward(int parentIndex) {
