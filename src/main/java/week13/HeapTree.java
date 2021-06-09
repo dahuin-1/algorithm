@@ -147,15 +147,15 @@ public class HeapTree {
         return levelOrderTraverse(q,"");
     }
 
-    private String levelOrderTraverse(Deque<Node> q, String retString) {
-        Node node = q.poll();
-        if(node == null)
-            return retString;
-        retString = retString + " " + node.key;
-        if(node.left != null) {
-            q.add(node.left);
-            if (node.right != null)
-                q.add(node.right);
+    private String levelOrderTraverse(Deque<Node> q, String retString) { //어레이와 같이 출력하는데 응용을 한 사례
+        Node node = q.poll(); //하나를 꺼내!
+        if(node == null) //null이면
+            return retString;//받은거 그대로 돌려주기
+        retString = retString + " " + node.key; //그게 아니라면 retString+node.key
+        if(node.left != null) { //left가 null이 아니먄
+            q.add(node.left); //left child 넣기
+            if (node.right != null) //right가 null이 아니면
+                q.add(node.right); //right 넣어
         }
         return levelOrderTraverse(q, retString);
     }
@@ -169,7 +169,6 @@ public class HeapTree {
     class Node {
         char key;
         Node left, right, parent;
-
         public Node(char c, Node l, Node r, Node p) {
             key = c;
             left = l;
