@@ -214,7 +214,7 @@ public class BinaryTree {
         Queue<Node> queue = new LinkedList<Node>();
         queue.add(root);
         while(!queue.isEmpty()) {
-            Node tempNode = queue.poll();
+            Node tempNode = queue.poll(); //root
             System.out.print(tempNode.data + " ");
 
             if(tempNode.left != null) {
